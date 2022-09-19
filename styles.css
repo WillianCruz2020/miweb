@@ -1,0 +1,64 @@
+img{
+    padding-top: 2%;
+    padding-left: 2%;
+    padding;
+
+}
+
+
+body{
+    background-color: #121f3d;
+}
+
+
+h1{
+    color: aliceblue;
+    text-align: center;
+
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+
+}
+
+.header{
+    float: left;
+    width: 100%;
+    height: 40px;
+    background-color: darkgreen
+}
+
+
+.sidebar{
+    float: left;
+    width: 100%;
+    height: 200px;
+
+    
+}
+.content{
+    float: left;
+    width: 100%;
+    height: 400px;
+
+    
+}
+
+.footer{
+    float: left;
+    width: 100%;
+    height: 40px;
+    background-color: darkgreen
+}
+
+.box{
+    width: 300px;
+    height: 100px;
+    background-color: darkblue;
+    margin: 10px;
+    float: left;
+    border-radius: 10px;
+
+}
